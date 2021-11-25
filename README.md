@@ -19,5 +19,3 @@
 * The sentence would be fed into an LSTM, and then the final output of the LSTM will be stored.
 * This final output is like an encoding of our input sentence.
 * Using this encoding the model will predict the output.
-
-##### Due to errors faced, I could not proceed further. This is all that I have been able to complete.
