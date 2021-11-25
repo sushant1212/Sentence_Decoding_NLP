@@ -30,3 +30,11 @@ Training Logs:
 ![Screenshot from 2021-11-25 18-32-02](https://user-images.githubusercontent.com/57453637/143446595-08063f19-35f6-4abc-a987-5e31c0e96e7b.png)
 ![Screenshot from 2021-11-25 18-32-38](https://user-images.githubusercontent.com/57453637/143446605-0a2832dc-e6bd-466d-b479-b8b26cd94c8d.png)
 ![Screenshot from 2021-11-25 18-32-59](https://user-images.githubusercontent.com/57453637/143446615-fae60f59-f2bc-4ede-957a-d3c23bca1d2e.png)
+
+
+## Instructions to run
+``` python3 train.py --config <path_to_config.yaml>```
+
+## In config file
+* To change parameters for training : change the `lr` (learning rate), and `n_iter` (number of iterations)
+* Before running give the correct paths to the training and validation csv files in the corresponding locations
