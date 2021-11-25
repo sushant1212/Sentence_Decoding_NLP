@@ -15,9 +15,11 @@
 * The final embedding vector is a 50 dimensional vector
 
 ### Network Architecture
-* The basic unit of the network is an LSTM.
-* The sentence would be fed into an LSTM, and then the final output of the LSTM will be stored.
+* The basic unit of the network is an GRU.
+* The sentence would be fed into an GRU, and then the final output of the GRU will be stored.
 * This final output is like an encoding of our input sentence.
 * Using this encoding the model will predict the output.
+* This model is on the same lines as the Seq2Seq model apart from the attention layer.
 
-##### Due to errors faced, I could not proceed further. This is all that I have been able to complete.
+### Results
+

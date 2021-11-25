@@ -1,0 +1,8 @@
+training:
+    lr: 0.01
+    n_iters: 150000
+
+paths:
+    glove_path: "/home/sushant/github/Sentence_Decoding_NLP"
+    train_path: "/home/sushant/github/Sentence_Decoding_NLP/task_data/train_data.csv"
+    val_path: "/home/sushant/github/Sentence_Decoding_NLP/task_data/valid_data.csv"
