@@ -23,3 +23,10 @@
 
 ### Results
 
+![Screenshot from 2021-11-25 18-23-18](https://user-images.githubusercontent.com/57453637/143446292-9b86df2b-f213-407e-9e0e-b7730a0a0957.png)
+Results on Validation Set : Accuracy : 100%
+
+Training Logs: 
+![Screenshot from 2021-11-25 18-32-02](https://user-images.githubusercontent.com/57453637/143446595-08063f19-35f6-4abc-a987-5e31c0e96e7b.png)
+![Screenshot from 2021-11-25 18-32-38](https://user-images.githubusercontent.com/57453637/143446605-0a2832dc-e6bd-466d-b479-b8b26cd94c8d.png)
+![Screenshot from 2021-11-25 18-32-59](https://user-images.githubusercontent.com/57453637/143446615-fae60f59-f2bc-4ede-957a-d3c23bca1d2e.png)
